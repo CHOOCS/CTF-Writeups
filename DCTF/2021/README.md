@@ -2,7 +2,7 @@
 
 ---
 ```
-Title                			  Category        Flag
+Title                             Category          Flag
 -------------------------------   -----------		---------------------------
 Sanity Check                      Welcome         dctf{welc0m3_t0_dCTF}
 
