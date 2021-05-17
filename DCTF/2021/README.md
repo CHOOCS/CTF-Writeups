@@ -1,10 +1,10 @@
 ## Dragonsec DCTF 2021
 
 ---
-
 ```
-Title                			Category		Flag
+Title                			      Category		  Flag
 ------------------------------	-----------		---------------------------
+<<<<<<< HEAD
 Sanity Check                    Welcome         dctf{welc0m3_t0_dCTF}
 
 Dragon                          Misc            dctf{N0w_Y0u_s3e_m3}
@@ -33,3 +33,5 @@ Pwn Sanity Check (pwn)      - dctf{Ju5t_m0v3_0n}
 Data Recovery (crypto)      - dctf{x0r_eNcRypt1on_brUt3foRce}
 Dev Ops and Sec Ops (web)   - dctf{H3ll0_fr0m_1T_guy}
 ```
+
+
