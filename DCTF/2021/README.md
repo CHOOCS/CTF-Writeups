@@ -1,6 +1,21 @@
 ## Dragonsec DCTF 2021
 
 ---
+
+![image-20210518073732476](C:\Users\chooc\AppData\Roaming\Typora\typora-user-images\image-20210518073732476.png)
+
+![image-20210518074030256](C:\Users\chooc\AppData\Roaming\Typora\typora-user-images\image-20210518074030256.png)
+
+![Solve Percentages](C:\Users\chooc\Downloads\Solve Percentages.png)
+
+![Category Breakdown](C:\Users\chooc\Downloads\Category Breakdown.png)
+
+
+
+![Score over Time](C:\Users\chooc\Downloads\Score over Time.png)
+
+
+
 ```
 Title                             Category        Flag
 -------------------------------   -------------   -----------------------------------------------
@@ -32,5 +47,4 @@ Pwn Sanity Check (pwn)      - dctf{Ju5t_m0v3_0n}
 Data Recovery (crypto)      - dctf{x0r_eNcRypt1on_brUt3foRce}
 Dev Ops and Sec Ops (web)   - dctf{H3ll0_fr0m_1T_guy}
 ```
-
 
