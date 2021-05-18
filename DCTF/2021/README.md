@@ -2,11 +2,7 @@
 
 ---
 
-```markdown
-<p align="center">
-  <img src="Image/image-20210518075248132.png">
-</p>
-```
+<center>![image-20210518075248132](Image/image-20210518075248132.png)</center>
 
 ![image-20210518075319466](Image/image-20210518075319466.png)
 
