@@ -48,11 +48,11 @@ Pinch Me                          Pwn             dctf{y0u_kn0w_wh4t_15_h4pp3n1n
 ===============================================
 Challenge that did not solve during active time
 ===============================================
-Pwn Sanity Check (pwn)      - dctf{Ju5t_m0v3_0n}
-Data Recovery (crypto)      - dctf{x0r_eNcRypt1on_brUt3foRce}
-Dev Ops and Sec Ops (web)   - dctf{H3ll0_fr0m_1T_guy}
-Show Us Your ID             - dctf{3b0ba4}
-Company Leak                - dctf{wew_lad_y0u_aCtually_d1d_it}
-Encrypted The Flag I have   - dctf{mastercodebreaker}
+Pwn Sanity Check                  Pwn             dctf{Ju5t_m0v3_0n}
+Data Recovery                     Crypto          dctf{x0r_eNcRypt1on_brUt3foRce}
+Dev Ops and Sec Ops               Web             dctf{H3ll0_fr0m_1T_guy}
+Show Us Your ID                   Misc            dctf{3b0ba4}
+Company Leak                      Misc            dctf{wew_lad_y0u_aCtually_d1d_it}
+Encrypted The Flag I have         Misc            dctf{mastercodebreaker}
 ```
 
