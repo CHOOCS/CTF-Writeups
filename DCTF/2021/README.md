@@ -2,15 +2,15 @@
 
 ---
 
-<center>![image-20210518075248132](Image/image-20210518075248132.png)</center>
+<center><img src="Image/image-20210518075248132.png"></center>
 
-![image-20210518075319466](Image/image-20210518075319466.png)
+<center><img src="Image/image-20210518075319466.png"></center>
 
-![Solve Percentages](Image/SolvePercentages.png)
+<center><img src="Image/SolvePercentages.png" ></center>
 
-![Category Breakdown](Image/CategoryBreakdown.png)
+<center><img src="Image/CategoryBreakdown.png"></center>
 
-![Score over Time](Image/ScoreOverTime.png)
+<center><img src="Image/ScoreOverTime.png"></center>
 
 ```
 Title                             Category        Flag
