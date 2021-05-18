@@ -37,7 +37,7 @@ Behind The Scenes                 Misc            dctf{GotAnyMorePixels}
 
 Secure API                        Web             dctf{w34k_k3y5_4r3_n0t_0k4y}
 Simple Web                        Web             dctf{w3b_c4n_b3_fun_r1ght?}
-Very Secure Website               Web		        dctf{It's_magic._I_ain't_gotta_explain_shit.}
+Very Secure Website               Web		      dctf{It's_magic._I_ain't_gotta_explain_shit.}
 
 Strong Password                   Crypto          dctf{r0cKyoU_f0r_tHe_w1n}
 Julius' ancient script            Crypto          dctf{th3_d13_h4s_b33n_c4st}
