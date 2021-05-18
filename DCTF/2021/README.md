@@ -6,11 +6,11 @@
 
 ![image-20210518075319466](Image/image-20210518075319466.png)
 
-![Solve Percentages](Image/Solve Percentages.png)
+![Solve Percentages](Image/SolvePercentages.png)
 
-![Category Breakdown](Image/Category Breakdown.png)
+![Category Breakdown](Image/CategoryBreakdown.png)
 
-![Score over Time](Image/Score over Time.png)
+![Score over Time](Image/ScoreOverTime.png)
 
 ```
 Title                             Category        Flag
