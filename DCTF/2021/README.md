@@ -1,16 +1,25 @@
 ## Dragonsec DCTF 2021
 
 ---
+<p align=center>
+<img src="Image/image-20210518075248132.png">
+</p>
 
-<center><img align="center" src="Image/image-20210518075248132.png"></center>
+<p align=center>
+<img src="Image/image-20210518075319466.png">
+</p>
 
-<center><img align="center" src="Image/image-20210518075319466.png"></center>
+<p align=center>
+<img src="Image/SolvePercentages.png" >
+</p>
 
-<center><img align="center" src="Image/SolvePercentages.png" ></center>
+<p align=center>
+<img src="Image/CategoryBreakdown.png">
+</p>
 
-<center><img align="center" src="Image/CategoryBreakdown.png"></center>
-
-<center><img align="center" src="Image/ScoreOverTime.png"></center>
+<p align=center>
+<img src="Image/ScoreOverTime.png">
+</p>
 
 ```
 Title                             Category        Flag
