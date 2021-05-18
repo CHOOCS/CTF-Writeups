@@ -1,20 +1,16 @@
----
-typora-copy-images-to: Image
----
-
 ## Dragonsec DCTF 2021
 
 ---
 
-![image-20210518075248132](C:\Users\chooc\Desktop\CTF-Writeups\DCTF\2021\image\image-20210518075248132.png)
+![image-20210518075248132](Image/image-20210518075248132.png)
 
-![image-20210518075319466](C:\Users\chooc\Desktop\CTF-Writeups\DCTF\2021\image\image-20210518075319466.png)
+![image-20210518075319466](Image/image-20210518075319466.png)
 
-![Solve Percentages](C:\Users\chooc\Desktop\CTF-Writeups\DCTF\2021\Image\Solve Percentages.png)
+![Solve Percentages](Image/Solve Percentages.png)
 
-![Category Breakdown](C:\Users\chooc\Desktop\CTF-Writeups\DCTF\2021\Image\Category Breakdown.png)
+![Category Breakdown](Image/Category Breakdown.png)
 
-![Score over Time](C:\Users\chooc\Desktop\CTF-Writeups\DCTF\2021\Image\Score over Time.png)
+![Score over Time](Image/Score over Time.png)
 
 ```
 Title                             Category        Flag
